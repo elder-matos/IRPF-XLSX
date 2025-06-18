@@ -11,19 +11,19 @@ Links importantes:
 
 Nesta etapa você realiza o cadastro com seus dados
 
-![Img](./images/1-Titular.jpg)
+![Img](./images/1-Titular.JPG)
 
 ## Passo 2: Menu Informes
 
 Aqui você informa os dados atuais dos bancos o qual possui rendimentos.
 
-![Img](./images/2-Informes.jpg)
+![Img](./images/2-Informes.JPG)
 
 ## Passo 3: Menu Notas
 
 Neste menu você poderá incluir as informações sobre valores de entradas, como valores de extrato em holetires por exemplo. 
 
-![Img](./images/3-Notas.jpg)
+![Img](./images/3-Notas.JPG)
 
 ## Aviso Legal. (Importante!):
 Esta ferramenta visa auxiliar no seu controle para cadastrar as informações para sua declaração de imposto de renda. 
